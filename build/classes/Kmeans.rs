@@ -1,0 +1,3 @@
+Quad
+Cross
+Kmeans
